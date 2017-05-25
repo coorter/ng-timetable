@@ -1,5 +1,7 @@
-function ngTimetable() {
-    console.log("Here it comes!");
+"use strict";
+function __export(m) {
+    for (var p in m) if (!exports.hasOwnProperty(p)) exports[p] = m[p];
 }
-
-module.exports = ngTimetable;
+Object.defineProperty(exports, "__esModule", { value: true });
+__export(require("./src/ng-timetable"));
+//# sourceMappingURL=index.js.map
